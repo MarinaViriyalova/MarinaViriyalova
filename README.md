@@ -23,4 +23,4 @@
 
 * Telegram: @marina_viriyalova
 * E-mail: m.viriyalova@gmail.com
-* LinkedIn: https://www.linkedin.com/in/marina-viriyalova/
+* LinkedIn: https://www.linkedin.com/in/marinaviriyalova/
