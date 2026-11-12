@@ -1,6 +1,6 @@
 # Hi there, I'm Marina 👋
 
-* 💻 I'm junior software engineer
+* 💻 I'm software engineer
 * 💪 Aspired to work with real projects
 * 😎 Would love to work in a team with experienced engineers
 * 📖 Willing to learn new things 
